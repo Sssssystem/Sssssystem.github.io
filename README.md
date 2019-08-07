@@ -42,5 +42,5 @@ echo "https://nibazshab.github.io" >> 大佬的网站
   
   
   
-<small>推荐一个还不错图床 -> [聚合图床](https://www.superbed.cn/)</small>
+<small>推荐一个还不错图床 -> [聚合图床](https://www.superbed.cn/)</small>  
 <small>想不到吧， markdown 可以内嵌部分 html 代码</small>
