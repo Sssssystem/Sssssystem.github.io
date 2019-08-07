@@ -21,7 +21,11 @@ echo "这个是 markdown 格式的文章，不满意就自己改吧" >> README.m
 echo "这只是一个介绍哦，只有在这个页面才能看见哦" >> README.md
 ```
 
+我，**Ssssystem**，我有一下几个能力
+
 * 我会vps
 * 我会github
 * 我会html
 * 我会css
+
+~~**个屁哦，其实这篇文章的内容全是假的**~~
