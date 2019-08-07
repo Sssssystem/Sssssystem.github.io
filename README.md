@@ -42,3 +42,4 @@ echo "https://nibazshab.github.io" >> 大佬的网站
 
 <small>ps: 推荐一个图床->[聚合图床](https://www.superbed.cn/)</small>
 <big>字体变小</big>
+<font color=#66ccff size=1>保命</font>
