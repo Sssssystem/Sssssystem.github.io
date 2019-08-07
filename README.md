@@ -1,12 +1,12 @@
 # hello world
 
-My friend ``NibaZShab`` **help** me to build this. 
+- ~~My friend ``NibaZShab`` **help** me to build this.~~ 
 
 ---
 
 | Sssssystem | NibaZShab | 
 | :------: | :------: | 
-| 一般帅 | 帅的一比哟 |
+| 萌新 | 大佬 |
 
 # 注：
 ```bash
@@ -34,12 +34,3 @@ echo "https://sssssystem.github.io/" >> 你的网站
 ```bash
 echo "https://nibazshab.github.io" >> 大佬的网站
 ```
-
-我，**Sssssystem**，我有一下几个能力
-
-* 我会vps
-* 我会github
-* 我会html
-* 我会css
-
-~~**个屁哦，其实这篇文章的内容全是假的，只需要记住一点，我，Ssssystem 牛逼**~~
