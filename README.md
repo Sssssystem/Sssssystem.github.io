@@ -1,6 +1,6 @@
 ---
 title: 介绍
-description: Ssssystem - 一个爱玩游戏，不爱折腾的电脑爱好者
+description: Sssssystem - 一个爱玩游戏，不爱折腾的电脑爱好者
 ---
 
 # hello world
@@ -9,7 +9,7 @@ My friend ``NibaZShab`` **help** me to build this.
 
 ---
 
-| Ssssystem | NibaZShab | 
+| Sssssystem | NibaZShab | 
 | :------: | :------: | 
 | 一般帅 | 帅的一比哟 |
 
@@ -34,10 +34,10 @@ echo "有不会的就问我吧" >> README.md
 ```
 ## 你的网站链接为：
 ```sh
-https://ssssystem.github.io
+https://sssssystem.github.io
 ```
 
-我，**Ssssystem**，我有一下几个能力
+我，**Sssssystem**，我有一下几个能力
 
 * 我会vps
 * 我会github
