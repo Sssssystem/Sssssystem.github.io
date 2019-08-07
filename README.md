@@ -41,5 +41,4 @@ echo "https://nibazshab.github.io" >> 大佬的网站
 [![](https://ae01.alicdn.com/kf/Ha69d5ac9be0249ceb423dbd48a98286aY.jpg)](https://sssssystem.github.io)
   
 ---
-<small>• 推荐一个还不错图床 -> [聚合图床](https://www.superbed.cn/)</small>  
-<small>• 想不到吧， markdown 可以内嵌部分 html 代码</small>
+<small>推荐一个还不错图床 -> [聚合图床](https://www.superbed.cn/)(wow, markdown居然可以内置部分html的代码)</small>
