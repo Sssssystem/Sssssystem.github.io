@@ -1,12 +1,12 @@
----
-title: 介绍
-description: Sssssystem - 一个爱玩游戏，不爱折腾的电脑爱好者
----
-
 # hello world
 
 My friend ``NibaZShab`` **help** me to build this. 
 
+---
+
+---
+who: Sssssystem
+how: Sssssystem - 一位萌新
 ---
 
 | Sssssystem | NibaZShab | 
