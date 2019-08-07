@@ -38,6 +38,7 @@ echo "https://nibazshab.github.io" >> 大佬的网站
 
 ## 扫码或者直接点击
 我自己的网站
-[![](https://ae01.alicdn.com/kf/Ha69d5ac9be0249ceb423dbd48a98286aY.jpg))](https://nibazshab.github.io/about)
+[![](https://ae01.alicdn.com/kf/Ha69d5ac9be0249ceb423dbd48a98286aY.jpg)](https://nibazshab.github.io/about)
 
 <small>ps: 推荐一个图床->[聚合图床](https://www.superbed.cn/)</small>
+<big>字体变小</big>
