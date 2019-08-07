@@ -1,6 +1,6 @@
 # hello world
 
-- ~~My friend ``NibaZShab`` **help** me to build this.~~ 
+- ~~*My friend ``NibaZShab`` **help** me to build this.*~~ 
 
 ---
 
@@ -36,6 +36,6 @@ echo "https://sssssystem.github.io/" >> 你的网站
 echo "https://nibazshab.github.io" >> 大佬的网站
 ```
 
-*扫码或者直接点击图片就可以打开我的网站哦*
+## 扫码或者直接点击图片就可以打开我的网站哦*
 
 [![](https://ae01.alicdn.com/kf/H9f477c9e603540649accd14a6d4c8214K.jpg)](https://nibazshab.github.io/about)
