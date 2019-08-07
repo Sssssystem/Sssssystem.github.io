@@ -32,9 +32,12 @@ echo "vps怎么用，这个github就怎么用" >> README.md
 ```bash
 echo "有不会的就问我吧" >> README.md
 ```
-## 你的网站链接为：
-```sh
-https://sssssystem.github.io
+> 特别注意：
+```bash
+echo "https://sssssystem.github.io" >> 你的网站
+```
+```bash
+echo "https://nibazshab.github.io" >> 大佬的网站
 ```
 
 我，**Sssssystem**，我有一下几个能力
