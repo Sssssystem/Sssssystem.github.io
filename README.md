@@ -18,7 +18,17 @@ My friend ``NibaZShab`` **help** me to build this.
 echo "这个是 markdown 格式的文章，不满意就自己改吧" >> README.md
 ```
 ```bash
-echo "这只是一个介绍哦，只有在这个页面才能看见哦" >> README.md
+echo "这只是一个介绍哦" >> README.md
+```
+```bash
+echo "如果你没有 index.hmtl 文件，你的网站就会显示这个文件的内容" >> README.nd
+```
+```bash
+echo "如果你放了 index.html 文件，这个介绍页面就不会显示哦" >> README.md
+```
+## 你的网站链接为：
+```
+https://ssssystem.github.io
 ```
 
 我，**Ssssystem**，我有一下几个能力
