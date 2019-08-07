@@ -4,11 +4,6 @@ My friend ``NibaZShab`` **help** me to build this.
 
 ---
 
----
-who: Sssssystem
-how: Sssssystem - 一位萌新
----
-
 | Sssssystem | NibaZShab | 
 | :------: | :------: | 
 | 一般帅 | 帅的一比哟 |
