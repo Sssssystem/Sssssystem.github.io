@@ -1,0 +1,35 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>画廊</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+    <!--插入背景图片-->
+	<style>
+	    body{background:url(https://pic.superbed.cn/item/5daeb5e48b58bc7bf7abf626.jpg)}
+	</style>
+    <style>
+	    logo
+		{
+	position: absolute;
+	left: 10px;
+	margin: 10px;
+	top: 10px;
+		}
+		a
+		{
+	position: absolute;
+	left: 34px;
+	top: 81px;
+	width: 1881px;
+	text-align:center;
+		}
+	</style>	
+</head>
+<body>
+<!--插入头图片-->
+<logo><img src="https://pic.superbed.cn/item/5daeb4b98b58bc7bf7abdfbe.png" width="146" height="45" alt="Logo"></logo>
+<!--插入展示页背景-->
+<a><img src="https://pic.superbed.cn/item/5daeb4b98b58bc7bf7abdfbc.png" width="2000" height="1000" alt="背景2"></a>
+</body>
+</html>
