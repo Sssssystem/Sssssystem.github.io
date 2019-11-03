@@ -30,7 +30,7 @@ echo "有不会的就问NibaZShab吧" >> README.md
 ---
 > 特别注意：
 ```bash
-echo "https://sssssystem.github.io/" >> 你的网站
+echo "https://sssssystem.github.io/" >> 巨佬的网站
 ```
 ```bash
 echo "https://nibazshab.github.io" >> 大佬的网站
