@@ -13,7 +13,7 @@ var date_div = document.getElementById("date");
 var weekday = ["日", "一", "二", "三", "四", "五", "六"];
 function DateDiv() {
     var date = new Date();
-    if (date.Format("MM-dd") < "07-07") {
+    if (date.Format("MM-dd") < "06-07") {
         var year = date.getFullYear();
     } else {
         var year = date.getFullYear() + 1;
