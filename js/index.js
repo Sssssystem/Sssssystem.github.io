@@ -19,7 +19,7 @@ function DateDiv() {
         var year = date.getFullYear() + 1;
     }
 	var date_str = date.Format("yyyy-MM-dd");
-    var countdown = DateMinus(date_str, year + "-07-07");
+    var countdown = DateMinus(date_str, year + "-06-07");
 	var date_str_fmt = date.Format("yyyy年MM月dd日");
     date_div.innerText = date_str_fmt + " 星期" + weekday[date.getDay()] + " 距离" + year + "年高考还有" + countdown + "天";
 }
